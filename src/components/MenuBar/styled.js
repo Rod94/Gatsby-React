@@ -12,7 +12,7 @@ export const MenuBarWrapper = styled.aside`
   padding: 0.8rem 0;
   position: fixed;
   right: 0;
-  width: 3.75rem;
+  width: 3rem;
 `
 
 export const MenuBarGroup = styled.div`
@@ -28,10 +28,10 @@ export const MenuBarItem = styled.span`
   color: #8899a6;
   cursor: pointer;
   display: block;
-  height: 3.75rem;
-  padding: 1.1rem;
+  height: 3rem;
+  padding: 0.7rem;
   position: relative;
-  width: 3.75rem;
+  width: 3rem;
   &:hover {
     color: #1fa1f2;
   }
